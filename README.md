@@ -32,23 +32,22 @@ GitLab CI: CI/CD tool integrated with GitLab for automating code delivery pipeli
 - [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:i210383@nu.edu.pk)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaibunnisachd/)
 
-## 💻 Technologies I've Learned & used in various projects
+# 💻 Technologies I've Learned & used in various projects
 
-Below are the technologies I've learned:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" alt="ASP.NET" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50"/>
 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg =50x50)  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg =50x50)  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =50x50)  
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =50x50)  
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =50x50)  
-![ASP.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg =50x50)  
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =50x50)  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =50x50)  
-![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg =50x50)  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg =50x50)  
-![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg =50x50)  
-![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg =50x50)  
-![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg =50x50)
 
 
 # 👩‍💻 Zaib Un Nisa's GitHub Stats
