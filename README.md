@@ -1,7 +1,5 @@
-## Hi there 👋 
-## 👩‍💻 I'm Zaib Un Nisa
-
-# Welcome to my personal portfolio! Here, you can find links to my projects, blog posts, and ways to connect with me.
+## Hi there 👋 || 👩‍💻 I'm Zaib Un Nisa
+ Welcome to my personal portfolio! Here, you can find links to my projects, blog posts, and ways to connect with me.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zaibunnisaq&color=green)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@zaibunnisachd)
@@ -15,10 +13,10 @@
 
 ## 📝 Blog Posts
 - [Blog 1: An Introduction to Microservices: What They Are and Why They Are Important ](https://medium.com/@zaibunnisachd/an-introduction-to-microservices-what-they-are-and-why-they-are-important-22b9c9aa8194)
-- Published on 9th September: In this blog, I've discussed how microservices offer a modular approach to software architecture, improving scalability, development speed, and fault isolation compared to monolithic systems. I also highlighted the challenges of managing microservices, such as data consistency and security. Additionally, I explained various communication methods between microservices, like APIs, message brokers, and queues.
-- 
+Published on 9th September: In this blog, I've discussed how microservices offer a modular approach to software architecture, improving scalability, development speed, and fault isolation compared to monolithic systems. I also highlighted the challenges of managing microservices, such as data consistency and security. Additionally, I explained various communication methods between microservices, like APIs, message brokers, and queues.
+  
 - [Blog 2: Knative: Making Applications Serverless ](https://medium.com/@zaibunnisachd/knative-making-applications-serverless-a5e6239c9096)
-- Published on 13th October: In this blog, I've introduced Knative, an open-source platform that simplifies deploying and managing serverless applications on Kubernetes. Knative streamlines the process by automating tasks like container building, pushing to registries, and deploying applications using simple YAML files. It consists of three main components: Serving (for serverless applications), Eventing (for event-driven architectures), and Build (for building container images). I’ve also provided a step-by-step guide for creating and deploying a simple serverless application using Knative, from creating the application to pushing the Docker image and deploying it on Kubernetes.
+Published on 13th October: In this blog, I've introduced Knative, an open-source platform that simplifies deploying and managing serverless applications on Kubernetes. Knative streamlines the process by automating tasks like container building, pushing to registries, and deploying applications using simple YAML files. It consists of three main components: Serving (for serverless applications), Eventing (for event-driven architectures), and Build (for building container images). I’ve also provided a step-by-step guide for creating and deploying a simple serverless application using Knative, from creating the application to pushing the Docker image and deploying it on Kubernetes.
 
 ## 📖 DevOps Tools I've learned
 
@@ -38,19 +36,19 @@ GitLab CI: CI/CD tool integrated with GitLab for automating code delivery pipeli
 
 Below are the technologies I've learned:
 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
-![ASP.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg)  
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
-![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
-![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)  
-![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg)  
-![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg =50x50)  
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg =50x50)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =50x50)  
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =50x50)  
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =50x50)  
+![ASP.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg =50x50)  
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =50x50)  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =50x50)  
+![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg =50x50)  
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg =50x50)  
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg =50x50)  
+![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg =50x50)  
+![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg =50x50)
 
 
 # 👩‍💻 Zaib Un Nisa's GitHub Stats
