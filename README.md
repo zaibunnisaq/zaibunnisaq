@@ -20,12 +20,12 @@ Published on 13th October: In this blog, I've introduced Knative, an open-source
 
 ## 📖 DevOps Tools I've learned
 
-Git: Version control system for managing source code.
-Jenkins: Continuous integration and continuous deployment (CI/CD) tool.
-Docker: Containerization tool for building and deploying applications.
-Kubernetes: Container orchestration platform for automating containerised application deployment, scaling, and management.
-Terraform: Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.
-GitLab CI: CI/CD tool integrated with GitLab for automating code delivery pipelines.
+- Git: Version control system for managing source code.
+- Jenkins: Continuous integration and continuous deployment (CI/CD) tool.
+- Docker: Containerization tool for building and deploying applications.
+- Kubernetes: Container orchestration platform for automating containerised application deployment, scaling, and management.
+- Terraform: Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.
+- GitLab CI: CI/CD tool integrated with GitLab for automating code delivery pipelines.
 
 ## 📬 Connect With Me
 
