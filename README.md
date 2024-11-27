@@ -30,7 +30,7 @@ Published on 13th October: In this blog, I've introduced Knative, an open-source
 ## 📬 Connect With Me
 
 - [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:i210383@nu.edu.pk)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaibunnisachd/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaibunnisaq)
 
 # 💻 Technologies I've Learned & used in various projects
 
