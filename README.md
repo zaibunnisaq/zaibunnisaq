@@ -1,9 +1,16 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=50&color=800080&center=true&vCenter=true&multiline=true&width=710&height=100&lines=>+Hi+there!+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3000&pause=50&color=800080&center=true&vCenter=true&multiline=true&width=710&height=100&lines=%3E+Hi+there!+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
+  <div align="center">
+  <img src="https://media4.giphy.com/media/VFHa3Kg39gFLVbinN1/giphy.webp" width="250" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=zaibunnisaq&color=green)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@zaibunnisachd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaibunnisachd/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:i210383@nu.edu.pk)
+  ![Profile Views](https://komarev.com/ghpvc/?username=zaibunnisaq&color=green)
+  [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@zaibunnisachd)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaibunnisachd/)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:i210383@nu.edu.pk)
+  
+</div>
+</div>
+
 
 
 ## 🌟 About Me
@@ -12,11 +19,9 @@
 - 👯 I’m looking to collaborate on .NET projects.
 
 ## 📝 Blog Posts
-- [Blog 1: An Introduction to Microservices: What They Are and Why They Are Important ](https://medium.com/@zaibunnisachd/an-introduction-to-microservices-what-they-are-and-why-they-are-important-22b9c9aa8194)
-Published on 9th September
-  
-- [Blog 2: Knative: Making Applications Serverless ](https://medium.com/@zaibunnisachd/knative-making-applications-serverless-a5e6239c9096)
-Published on 13th October
+- Published on 9th September: [Blog 1: An Introduction to Microservices: What They Are and Why They Are Important ](https://medium.com/@zaibunnisachd/an-introduction-to-microservices-what-they-are-and-why-they-are-important-22b9c9aa8194)
+
+- Published on 13th October: [Blog 2: Knative: Making Applications Serverless ](https://medium.com/@zaibunnisachd/knative-making-applications-serverless-a5e6239c9096)
 
 ## 📖 DevOps Tools I've learned
 
