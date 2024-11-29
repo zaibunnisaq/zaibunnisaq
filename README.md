@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&duration=3000&pause=50&color=800080&center=true&vCenter=true&multiline=true&width=710&height=200&lines=Hi!+there!+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=50&color=800080&center=true&vCenter=true&multiline=true&width=710&height=200&lines=Hi!+there!+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
 
  Welcome to my personal portfolio! Here, you can find links to my projects, blog posts, and ways to connect with me.
 
