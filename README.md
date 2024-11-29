@@ -1,4 +1,5 @@
-## Hi there 👋 || 👩‍💻 I'm Zaib Un Nisa
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=50&center=true&vCenter=true&multiline=true&width=610&height=100&lines=Hi!+there+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
+
  Welcome to my personal portfolio! Here, you can find links to my projects, blog posts, and ways to connect with me.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zaibunnisaq&color=green)
