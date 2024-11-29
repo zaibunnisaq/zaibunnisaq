@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3000&pause=50&color=800080&center=true&vCenter=true&multiline=true&width=710&height=100&lines=%3E+Hi+there!+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3000&pause=50&color=8bcbd5&center=true&vCenter=true&multiline=true&width=710&height=100&lines=%3E+Hi+there!+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
   <div align="center">
   <img src="https://media4.giphy.com/media/VFHa3Kg39gFLVbinN1/giphy.webp" width="200" />
 
