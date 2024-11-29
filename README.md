@@ -51,7 +51,7 @@
 </div>
 
 
-# 👩‍💻 Zaib Un Nisa's GitHub Stats
+# 👩‍💻 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaibunnisaq&show_icons=true&count_private=true&hide=prs&theme=radical)
 
