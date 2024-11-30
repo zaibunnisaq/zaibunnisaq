@@ -53,8 +53,6 @@
 
 # 👩‍💻 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaibunnisaq&show_icons=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaibunnisaq&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaibunnisaq&langs_count=10&layout=compact)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaibunnisaq&langs_count=10&layout=compact&theme=tokyonight)
