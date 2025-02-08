@@ -11,13 +11,6 @@
 </div>
 </div>
 
-
-
-## 🌟 About Me
-- 🔭 I’m  working on DevOps Tools, AWS and my Final Year Project.
-- 🌱 I’m currently learning DevOps Tools, Cloud Technologies and YOLO model training.
-- 👯 I’m looking to collaborate on .NET projects.
-
 ## 📝 Blog Posts
 - Published on 9th September: [Blog 1: An Introduction to Microservices: What They Are and Why They Are Important ](https://medium.com/@zaibunnisachd/an-introduction-to-microservices-what-they-are-and-why-they-are-important-22b9c9aa8194)
 
@@ -28,7 +21,7 @@
 - Git: Version control system for managing source code.
 - Jenkins: Continuous integration and continuous deployment (CI/CD) tool.
 - Docker: Containerization tool for building and deploying applications.
-- Kubernetes: Container orchestration platform for automating containerised application deployment, scaling, and management.
+- Kubernetes: Container orchestration platform for automating containerized application deployment, scaling, and management.
 - Terraform: Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.
 - GitLab CI: CI/CD tool integrated with GitLab for automating code delivery pipelines.
 
