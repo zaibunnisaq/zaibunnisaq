@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3000&pause=50&color=8bcbd5&center=true&vCenter=true&multiline=true&width=710&height=100&lines=%3E+Hi+there!+I’m+Zaib+Un+Nisa;A+final+year+Computer+Science+student!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3000&pause=50&color=8bcbd5&center=true&vCenter=true&multiline=true&width=710&height=100&lines=%3E+Hi+there!+I’m+Zaib+Un+Nisa;A+recent+Computer+Science+graduate!" />
   <div align="center">
-  <img src="https://media4.giphy.com/media/VFHa3Kg39gFLVbinN1/giphy.webp" width="200" />
 
   ![Profile Views](https://komarev.com/ghpvc/?username=zaibunnisaq&color=green)
   [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@zaibunnisachd)
@@ -11,41 +10,73 @@
 </div>
 </div>
 
-## 📝 Blog Posts
-- Published on 9th September: [Blog 1: An Introduction to Microservices: What They Are and Why They Are Important ](https://medium.com/@zaibunnisachd/an-introduction-to-microservices-what-they-are-and-why-they-are-important-22b9c9aa8194)
 
-- Published on 13th October: [Blog 2: Knative: Making Applications Serverless ](https://medium.com/@zaibunnisachd/knative-making-applications-serverless-a5e6239c9096)
+##  AI/ML Projects & Research
 
-## 📖 DevOps Tools I've learned
+-  **Final Year Project - Smart Traffic Management System**  
+  Real-time object detection using YOLOv5, PyTorch, and OpenCV to detect emergency vehicles and eliminate congestion.
 
-- Git: Version control system for managing source code.
-- Jenkins: Continuous integration and continuous deployment (CI/CD) tool.
-- Docker: Containerization tool for building and deploying applications.
-- Kubernetes: Container orchestration platform for automating containerized application deployment, scaling, and management.
-- Terraform: Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.
-- GitLab CI: CI/CD tool integrated with GitLab for automating code delivery pipelines.
+-  **Generative AI Experiments**  
+  Implemented **GANs**, **VAEs**, **Multimodal RAG**, **CNN**, **RNN**, and **Transformers** for text/image generation and classification using TensorFlow & PyTorch.
 
+-  **Apache Spark - Big Data Analysis**  
+  Leveraged **PySpark** and **Pandas** to process large-scale Amazon review data; visualized insights using **Tableau** and **D3**.
 
-# 💻 Technologies I've Learned & used in various projects
+---
+
+##  Tools & Technologies
+
+###  AI / ML / GenAI
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-learn" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="50" title="Hugging Face"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/>
+<img src="https://cdn.worldvectorlogo.com/logos/openai-1.svg" width="100" title="OpenAI"/>
 </div>
 
+###  Big Data & Visualization
 
-# 👩‍💻 GitHub Stats
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" title="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" title="Tableau" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="50" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" title="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="50" title="D3.js"/>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaibunnisaq&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+</div>
 
+###  Web & Dev Technologies
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+</div>
+
+---
+
+##  Blog Posts
+
+-  [An Introduction to Microservices](https://medium.com/@zaibunnisachd/an-introduction-to-microservices-what-they-are-and-why-they-are-important-22b9c9aa8194)  
+-  [Knative: Making Applications Serverless](https://medium.com/@zaibunnisachd/knative-making-applications-serverless-a5e6239c9096)
+
+---
+
+##  GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaibunnisaq&show_icons=true&count_private=true&hide=prs&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaibunnisaq&langs_count=10&layout=compact&theme=tokyonight)
