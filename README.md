@@ -16,6 +16,9 @@
 -  **Final Year Project - Smart Traffic Management System**  
   Real-time object detection using YOLOv5, PyTorch, and OpenCV to detect emergency vehicles and eliminate congestion.
 
+-  **AI News Summarizer** 
+  An AI news summarizer with text summarization and a recommendation system using BERT and FAISS for efficient similarity search using NLP pipelines and vector databases.
+
 -  **Generative AI Experiments**  
   Implemented **GANs**, **VAEs**, **Multimodal RAG**, **CNN**, **RNN**, and **Transformers** for text/image generation and classification using TensorFlow & PyTorch.
 
